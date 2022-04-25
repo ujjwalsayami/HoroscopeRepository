@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "rnmonorepo-example": "apps/rnmonorepo-example",
+    "rnmonorepo-example-e2e": "apps/rnmonorepo-example-e2e"
+  }
+}
