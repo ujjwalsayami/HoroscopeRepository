@@ -1,0 +1,1 @@
+export type horoscopeDay = 'today' | ' tomorrow' | 'yesterday';

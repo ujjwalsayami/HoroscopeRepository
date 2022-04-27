@@ -14,7 +14,12 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@ujjwal-rn-monorepo/models": ["libs/models/src/index.ts"],
+      "@ujjwal-rn-monorepo/services": ["libs/services/src/index.ts"],
+      "@ujjwal-rn-monorepo/store": ["libs/store/src/index.ts"],
+      "@ujjwal-rn-monorepo/ui": ["libs/ui/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
